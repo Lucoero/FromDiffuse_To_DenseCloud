@@ -6,14 +6,14 @@ Here are some sheets summarising the proyect:
 
 https://www.canva.com/design/DAG7gUdG6sA/BZwUen6aumXqcWX4CXBDYQ/edit?utm_content=DAG7gUdG6sA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-And the theory used for it is in the pdf "Memory_of_the_proyect.pdf".
+And the theory used for it is in the pdf "Memory_of_the_project.pdf".
 
 The project is divided in two primary enviroments:
 
 # Python Enviroment: Dinamical Simulator
 We use the Smooth Particle Hidrodynamics (SPH) for simulating the interaction between "globs" of particles that travel together in the medium. The globs are homogeneous and of mass determined
 by the density and volume of the cloud. SPH involes a dampening term with the relative velocity between globs. In order to avoid superposition of the globs by the gravitational attraction, we included
-a short-scale Coulomb-Like repulsion force. More information of the simulation, as well as the pertinent references, are included in the pdf "Memory_of_the_proyect.pdf".
+a short-scale Coulomb-Like repulsion force. More information of the simulation, as well as the pertinent references, are included in the pdf "Memory_of_the_project.pdf".
 
 ****HOW TO USE THE CODE***
 1. Tweak the global parameters in "Variables_Globales.py" as desired. Run it to update the variables for the rest of the scripts
