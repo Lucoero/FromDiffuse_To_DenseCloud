@@ -3,7 +3,9 @@ Creators: Gema Piedecausa, Jose Manuel Guerrero and Lucas Nicolás Hernández in
 
 This code simulates the phase from a diffuse cloud to clusters of dense clouds in the universe. This corresponds to the inicial phases of Protoestellar Formation.
 Here are some sheets summarising the proyect: 
+
 https://www.canva.com/design/DAG7gUdG6sA/BZwUen6aumXqcWX4CXBDYQ/edit?utm_content=DAG7gUdG6sA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 And the theory used for it is in the pdf "Memory_of_the_proyect.pdf".
 
 The project is divided in two primary enviroments:
