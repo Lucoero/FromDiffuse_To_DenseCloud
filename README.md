@@ -37,3 +37,5 @@ We created a interactable enviroment to analyse the outputs for the simulations.
    write all the additional info that can be packed with the build, associated with a Company Name, etc. Our original upload (the one in https://github.com/Lucoero/FromDiffuse_To_DenseCloud is the only one that we can assure its safe).
 5. In the main menu of the simulator, click the button corresponding to your simulation. 
 6. Further instructions are shown in the simulation screen. The renderer can be closed by ALT+F4 or by pressing ESC.
+
+For size problems in the uploading, we had to remove the last simulation. 
