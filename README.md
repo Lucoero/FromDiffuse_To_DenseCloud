@@ -6,7 +6,7 @@ Here are some sheets summarising the proyect:
 
 https://canva.link/4dixrgsp2thwen2
 
-And the theory used for it is in the pdf "Memory_of_the_project.pdf".
+And the theory used for it is in the pdf "Memory_of_the_project.pdf". There are also two videos showing the capabilities of the project.
 
 The project is divided in two primary enviroments:
 
@@ -40,4 +40,4 @@ This interactable enviroment can be used to render whatever simulation with the 
 5. In the main menu of the simulator, click the button corresponding to your simulation. 
 6. Further instructions are shown in the simulation screen. The renderer can be closed by ALT+F4 or by pressing ESC.
 
-For size problems in the uploading, we had to remove the last simulation. 
+For size problems in the uploading, we had to remove the last two simulations. 
