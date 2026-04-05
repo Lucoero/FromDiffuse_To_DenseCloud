@@ -21,18 +21,19 @@ a short-scale Coulomb-Like repulsion force. More information of the simulation, 
    We advise to chose as path the one that overwrites one of the simulators in the unity renderer, such as the example in the last line of the Variables' script.
 3. Run Main.py. It should show the progress of the simulation. When ended, the result will be a txt in the path and name chosen that can be read by the Unity Render.
 
-Be aware that some simulations can take quite some time, and be pretty heavy in size (some of our outputs have even reached 130 GB). If someone knows a better way to store the positions data let us know!
+Be aware that some simulations can take quite some time, and be pretty heavy in size (some of our outputs have even reached 130 GB). If someone knows a better way to store the positions data please let us know!
 # Unity Enviroment: Renderer
 We created a interactable enviroment to analyse the outputs for the simulations. It is built in Unity, but only a build is provided in this repository. Maybe in the future we will upload a version that lets you change the names of each simulation... Sorry!
 
 ***HOW TO USE THE SIMULATOR***
-1. Download the project in 
-2. Check that the simulation that you want to run is properly loaded in the build. This means:
+1. Download the project in https://lnhb.itch.io/fromdiffuse-to-densecloud-renderer
+2. You will have a zip file. Uncompress it in a folder of your choice.
+3. Check that the simulation that you want to run is properly loaded in the build. This means:
      i) In the build project, check the files in \NubeMolecular_Data\StreamingAssets
      ii) You should see txt labed from 0 to 8. These are the position files that reads each enviroment of the renderer,
          from top left to bottom right.
      iii) Choose one to overwrite with your data. Overwrite it.
-3. Open the renderer double-clicking "NubeMolecular.exe". Your OS may ask you to reconfirm that you want to open this unknown program. This means that we probably didnt
+4. Open the renderer double-clicking "NubeMolecular.exe". Your OS may ask you to reconfirm that you want to open this unknown program. This means that we probably didnt
    write all the additional info that can be packed with the build, associated with a Company Name, etc. Our original upload (the one in https://github.com/Lucoero/FromDiffuse_To_DenseCloud is the only one that we can assure its safe).
-4. In the main menu of the simulator, click the button corresponding to your simulation. 
-5. Further instructions are shown in the simulation screen. The renderer can be closed by ALT+F4 or by pressing ESC.
+5. In the main menu of the simulator, click the button corresponding to your simulation. 
+6. Further instructions are shown in the simulation screen. The renderer can be closed by ALT+F4 or by pressing ESC.
