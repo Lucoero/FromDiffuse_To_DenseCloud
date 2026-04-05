@@ -25,6 +25,8 @@ Be aware that some simulations can take quite some time, and be pretty heavy in 
 # Unity Enviroment: Renderer
 We created a interactable enviroment to analyse the outputs for the simulations. It is built in Unity, but only a build is provided in this repository. Maybe in the future we will upload a version that lets you change the names of each simulation... Sorry!
 
+This interactable enviroment can be used to render whatever simulation with the information stored as the format used in our txt. For more information, check WriteFile.py from the Python enviroment.
+
 ***HOW TO USE THE SIMULATOR***
 1. Download the project in https://lnhb.itch.io/fromdiffuse-to-densecloud-renderer
 2. You will have a zip file. Uncompress it in a folder of your choice.
