@@ -16,7 +16,7 @@ by the density and volume of the cloud. SPH involes a dampening term with the re
 a short-scale Coulomb-Like repulsion force. More information of the simulation, as well as the pertinent references, are included in the pdf "Memory_of_the_project.pdf".
 
 ***HOW TO USE THE CODE***
-1. Tweak the global parameters in "Variables_Globales.py" as desired. Run it to update the variables for the rest of the scripts
+1. Tweak the global parameters in "Variables_Globales.py" as desired. Run it to update the variables for the rest of the scripts. We recommend a first simulation as it was uploaded to see what to expect.
 2. Be sure to create a folder in the working directory labed "ArchivosPosiciones". This is the default folder for the output of the program. However, it can be changed as it is an optional parameter in Variables_Globales.
    We advise to chose as path the one that overwrites one of the simulators in the unity renderer, such as the example in the last line of the Variables' script.
 3. Run Main.py. It should show the progress of the simulation. When ended, the result will be a txt in the path and name chosen that can be read by the Unity Render.
