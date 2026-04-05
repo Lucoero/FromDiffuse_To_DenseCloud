@@ -21,7 +21,7 @@ a short-scale Coulomb-Like repulsion force. More information of the simulation, 
    We advise to chose as path the one that overwrites one of the simulators in the unity renderer, such as the example in the last line of the Variables' script.
 3. Run Main.py. It should show the progress of the simulation. When ended, the result will be a txt in the path and name chosen that can be read by the Unity Render.
 
-
+Be aware that some simulations can take quite some time, and be pretty heavy in size (some of our outputs have even reached 130 GB). If someone knows a better way to store the positions data let us know!
 # Unity Enviroment: Renderer
 We created a interactable enviroment to analyse the outputs for the simulations. It is built in Unity, but only a build is provided in this repository. Maybe in the future we will upload a version that lets you change the names of each simulation... Sorry!
 
