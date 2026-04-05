@@ -26,13 +26,13 @@ a short-scale Coulomb-Like repulsion force. More information of the simulation, 
 We created a interactable enviroment to analyse the outputs for the simulations. It is built in Unity, but only a build is provided in this repository. Maybe in the future we will upload a version that lets you change the names of each simulation... Sorry!
 
 ****HOW TO USE THE SIMULATOR***
-
-1. Check that the simulation that you want to run is properly loaded in the build. This means:
+1. Download the project in 
+2. Check that the simulation that you want to run is properly loaded in the build. This means:
      i) In the build project, check the files in \NubeMolecular_Data\StreamingAssets
      ii) You should see txt labed from 0 to 8. These are the position files that reads each enviroment of the renderer,
          from top left to bottom right.
      iii) Choose one to overwrite with your data. Overwrite it.
-2. Open the renderer double-clicking "NubeMolecular.exe". Your OS may ask you to reconfirm that you want to open this unknown program. This means that we probably didnt
+3. Open the renderer double-clicking "NubeMolecular.exe". Your OS may ask you to reconfirm that you want to open this unknown program. This means that we probably didnt
    write all the adittional info that can be packed with the build associate with a Company Name, etc. Our original upload (the one in https://github.com/Lucoero/FromDiffuse_To_DenseCloud is the only one that we can assure it is safe).
-3. In the main menu of the simulator, click the button corresponding to your simulation. The renderer can be closed by ALT+F4 (if the default option of ESC is still bugged, again sorry about that).
-4. Further instructions are shown in the simulation screen. 
+4. In the main menu of the simulator, click the button corresponding to your simulation. The renderer can be closed by ALT+F4 (if the default option of ESC is still bugged, again sorry about that).
+5. Further instructions are shown in the simulation screen. 
