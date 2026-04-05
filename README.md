@@ -40,4 +40,4 @@ This interactable enviroment can be used to render whatever simulation with the 
 5. In the main menu of the simulator, click the button corresponding to your simulation. 
 6. Further instructions are shown in the simulation screen. The renderer can be closed by ALT+F4 or by pressing ESC.
 
-For size problems in the uploading, we had to remove the last two simulations. 
+For size problems in the uploading, we had to remove the last three simulations. They can be seen in the videos uploaded to the repository though. 
