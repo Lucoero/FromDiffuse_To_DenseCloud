@@ -15,7 +15,7 @@ We use the Smooth Particle Hidrodynamics (SPH) for simulating the interaction be
 by the density and volume of the cloud. SPH involes a dampening term with the relative velocity between globs. In order to avoid superposition of the globs by the gravitational attraction, we included
 a short-scale Coulomb-Like repulsion force. More information of the simulation, as well as the pertinent references, are included in the pdf "Memory_of_the_project.pdf".
 
-****HOW TO USE THE CODE***
+***HOW TO USE THE CODE***
 1. Tweak the global parameters in "Variables_Globales.py" as desired. Run it to update the variables for the rest of the scripts
 2. Be sure to create a folder in the working directory labed "ArchivosPosiciones". This is the default folder for the output of the program. However, it can be changed as it is an optional parameter in Variables_Globales.
    We advise to chose as path the one that overwrites one of the simulators in the unity renderer, such as the example in the last line of the Variables' script.
@@ -25,7 +25,7 @@ a short-scale Coulomb-Like repulsion force. More information of the simulation, 
 # Unity Enviroment: Renderer
 We created a interactable enviroment to analyse the outputs for the simulations. It is built in Unity, but only a build is provided in this repository. Maybe in the future we will upload a version that lets you change the names of each simulation... Sorry!
 
-****HOW TO USE THE SIMULATOR***
+***HOW TO USE THE SIMULATOR***
 1. Download the project in 
 2. Check that the simulation that you want to run is properly loaded in the build. This means:
      i) In the build project, check the files in \NubeMolecular_Data\StreamingAssets
